@@ -12,7 +12,7 @@
     "lint": "eslint"
   },
   "dependencies": {
-    "@capacitor/android": "5.7.0",
+    "@capacitor/android": "^5.7.0",
     "@capacitor/app": "5.0.7",
     "@capacitor/core": "5.7.0",
     "@capacitor/haptics": "5.0.7",
@@ -22,15 +22,18 @@
     "@google/generative-ai": "^0.2.1",
     "@ionic/react": "^7.0.0",
     "@ionic/react-router": "^7.0.0",
+    "@syncfusion/ej2-react-schedule": "^24.2.4",
     "@types/react-router": "^5.1.20",
     "@types/react-router-dom": "^5.3.3",
     "ionicons": "^7.0.0",
     "react": "^18.2.0",
+    "react-chatbot-kit": "^2.2.2",
     "react-dom": "^18.2.0",
-    "react-ionicons": "^4.2.1",
+    "react-ionicons": "^1.5.7",
     "react-router": "^5.3.4",
     "react-router-dom": "^5.3.4",
-    "require": "^2.4.20",
+    "react-simple-chatbot": "^0.5.0",
+    "require": "^0.4.4",
     "swiper": "^11.0.6"
   },
   "devDependencies": {

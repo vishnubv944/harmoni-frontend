@@ -17,7 +17,7 @@ const SearchPage = () => (
           height: '100%',
         }}
       >
-        Maps content
+        Locate nearby mental health centers through "nearby places api"
       </div>
     </IonContent>
   </>
