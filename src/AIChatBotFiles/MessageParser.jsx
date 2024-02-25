@@ -1,6 +1,6 @@
 import React from 'react';
 import { GoogleGenerativeAI } from "@google/generative-ai";
-const genAI = new GoogleGenerativeAI('AIzaSyBOi5OrgEsaGu64tJYMptXBmLVwOx2KRZo');
+const genAI = new GoogleGenerativeAI('<GEMINI API KEY>');
 
 const MessageParser = ({ children, actions }) => {
   const parse = async (message) => {
